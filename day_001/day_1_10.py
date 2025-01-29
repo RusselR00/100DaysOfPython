@@ -7,6 +7,8 @@
 #• The remainder when a is divided by b
 #• The result of log10 a
 #• The result of ab
+
+
 from math import log10
 
 while True:
